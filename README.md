@@ -1,4 +1,9 @@
 ## 基于 Augment 扩展的修改版本，添加了自动登录、隐私保护和第三方API保护功能
+<p align="center">
+    <!-- https://github.com/badges/shields --> 
+    <a href="https://t.me/Sube3494"><img src="https://img.shields.io/badge/Telegram-Sube3494-yellow?logo=telegram" alt="Telegram" title="Telegram" /></a>
+    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+</p>
 
 ## ✨ 主要功能
 

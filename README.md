@@ -17,7 +17,7 @@
 
 1. 前往 [Releases](https://github.com/Sube3494/augment-for-vscode/releases) 页面
 2. 下载最新版本的 `.vsix` 文件
-3. 在 VSCode 中安装
+3. 打开VSCode**卸载原插件**然后安装
 
 
 ### 一键换号

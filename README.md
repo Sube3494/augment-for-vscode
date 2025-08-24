@@ -2,6 +2,9 @@
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://t.me/Sube3494"><img src="https://img.shields.io/badge/Telegram-Sube3494-yellow?logo=telegram" alt="Telegram" title="Telegram" /></a>
+        <a href="https://pic.sube.top/i/2025/08/24/68aaf065686f6.jpg" target="_blank">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-支持作者-orange?logo=buymeacoffee" alt="Buy Me a Coffee" />
+    </a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 </p>
 
@@ -59,3 +62,13 @@
 ---
 
 **⭐ 觉得有用？给个 Star 支持一下！**
+
+## ☕ 赞助咖啡
+
+如果这个项目对你有帮助，可以请作者喝杯咖啡表示支持：
+
+<p align="center">
+    <a href="https://pic.sube.top/i/2025/08/24/68aaf065686f6.jpg" target="_blank">
+        <img src="https://pic.sube.top/i/2025/08/24/68aaf065686f6.jpg" alt="赞助咖啡" width="200" />
+    </a>
+</p>

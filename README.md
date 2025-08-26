@@ -1,4 +1,4 @@
-## 基于 Augment 扩展的修改版本，添加了自动登录、隐私保护和第三方API保护功能
+## 基于 Augment 扩展的修改版本，添加了自动登录、隐私保护、余额显示和第三方API保护功能
 <p align="center">
     <a href="https://t.me/Sube3494"><img src="https://img.shields.io/badge/Telegram-Sube3494-yellow?logo=telegram" alt="Telegram" title="Telegram" /></a>
     <a href="https://pic.sube.top/i/2025/08/24/68aaf065686f6.jpg" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-支持作者-orange?logo=buymeacoffee" alt="Buy Me a Coffee" /></a>
@@ -25,9 +25,9 @@
 3. 打开VSCode**卸载原插件**然后安装
 
 
-### 一键换号
+### 一键换号和余额显示
 
-使用 [Augment Token Manager](https://github.com/zhaochengcube/augment-token-mng) 搭配本插件可以实现点一下换号
+使用 [Augment Token Manager](https://github.com/zhaochengcube/augment-token-mng) 搭配本插件可以实现点一下换号和自动更新余额信息
 
 
 ## 🔧 功能说明

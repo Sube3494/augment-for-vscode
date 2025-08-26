@@ -1,11 +1,12 @@
 ## 基于 Augment 扩展的修改版本，添加了自动登录、隐私保护和第三方API保护功能
 <p align="center">
-    <!-- https://github.com/badges/shields --> 
     <a href="https://t.me/Sube3494"><img src="https://img.shields.io/badge/Telegram-Sube3494-yellow?logo=telegram" alt="Telegram" title="Telegram" /></a>
-        <a href="https://pic.sube.top/i/2025/08/24/68aaf065686f6.jpg" target="_blank">
+    <a href="https://pic.sube.top/i/2025/08/24/68aaf065686f6.jpg" target="_blank">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-支持作者-orange?logo=buymeacoffee" alt="Buy Me a Coffee" />
     </a>
-    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+    <a href="https://github.com/Sube3494/augment-for-vscode/releases">
+        <img src="https://img.shields.io/github/downloads/Sube3494/augment-for-vscode/total?logo=github" alt="总下载量" />
+    </a>
 </p>
 
 ## ✨ 主要功能

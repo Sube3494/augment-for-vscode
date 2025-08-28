@@ -5,7 +5,9 @@
     <a href="https://github.com/Sube3494/augment-for-vscode/releases"><img src="https://img.shields.io/github/downloads/Sube3494/augment-for-vscode/total?logo=github" alt="总下载量" /></a>
 </p>
 
-## 因为是自动构建，所以发布的版本一定概率会出问题，如果不能用，我会尽快修复
+## 因为是自动构建，所以发布的版本有一定概率会出问题
+## 如果不能用，请提出issue，修复后我能通知到位
+
 ### ！！请以最新版或者最新更新时间为准！！
 ## ！！请以最新版或者最新更新时间为准！！
 # ！！请以最新版或者最新更新时间为准！！
@@ -53,7 +55,6 @@
 
 ### 余额显示功能
 - 状态栏实时余额显示
-- 自动刷新机制
 - Portal链接自动解析
 - VSCode配置项持久化存储
 - 智能检测AI操作并自动刷新余额

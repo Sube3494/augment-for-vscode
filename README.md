@@ -5,7 +5,7 @@
     <a href="https://github.com/Sube3494/augment-for-vscode/releases"><img src="https://img.shields.io/github/downloads/Sube3494/augment-for-vscode/total?logo=github" alt="总下载量" /></a>
 </p>
 
-## 因为我是自动构建，所以发布的版本可能会出现问题，如果不能用
+## 因为是自动构建，所以发布的版本一定概率会出问题，如果不能用，我会尽快修复
 ### ！！请以最新版或者最新更新时间为准！！
 ## ！！请以最新版或者最新更新时间为准！！
 # ！！请以最新版或者最新更新时间为准！！

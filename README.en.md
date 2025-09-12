@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://t.me/Sube3494"><img src="https://img.shields.io/badge/Telegram-Sube3494-yellow?logo=telegram" alt="Telegram" title="Telegram" /></a>
-    <a href="https://pic.sube.top/i/2025/08/24/68aaf065686f6.jpg" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Author-orange?logo=buymeacoffee" alt="Buy Me a Coffee" /></a>
+    <a href="#-buy-me-a-coffee"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Author-orange?logo=buymeacoffee" alt="Buy Me a Coffee" /></a>
     <a href="https://github.com/Sube3494/augment-for-vscode/releases"><img src="https://img.shields.io/github/downloads/Sube3494/augment-for-vscode/total?logo=github" alt="Total Downloads" /></a>
 </p>
 
@@ -83,7 +83,6 @@ Use [Augment Token Manager](https://github.com/zhaochengcube/augment-token-mng) 
 If this project helps you, you can buy the author a coffee to show support:
 
 <p align="center">
-    <a href="https://pic.sube.top/i/2025/08/24/68aaf065686f6.jpg" target="_blank">
-        <img src="https://pic.sube.top/i/2025/08/24/68aaf065686f6.jpg" alt="Buy Me a Coffee" width="200" />
-    </a>
+    <strong>USDT TRC20:</strong><br>
+    <code>TE2rgD94wsidWpMBQNAmgLfFnBS9hTpyAJ</code>
 </p>

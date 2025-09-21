@@ -1,3 +1,10 @@
+<!--
+ * @Date: 2025-09-12 21:50:07
+ * @Author: Sube
+ * @FilePath: README.md
+ * @LastEditTime: 2025-09-21 14:43:48
+ * @Description: 
+-->
 ## 基于 Augment 扩展的修改版本，添加了自动登录、隐私保护、余额显示和第三方API保护功能
 
 <p align="center">

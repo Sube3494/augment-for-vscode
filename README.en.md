@@ -12,7 +12,6 @@
 </p>
 
 <p align="center">
-    <a href="https://t.me/Sube3494"><img src="https://img.shields.io/badge/Telegram-Sube3494-yellow?logo=telegram" alt="Telegram" title="Telegram" /></a>
     <a href="https://t.me/+1RVvmZMw8s1hNDE1"><img src="https://img.shields.io/badge/Telegram-Join%20Group-blue?logo=telegram" alt="Telegram Group" title="Telegram Group" /></a>
     <a href="#-buy-me-a-coffee"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Author-orange?logo=buymeacoffee" alt="Buy Me a Coffee" /></a>
     <a href="https://github.com/Sube3494/augment-for-vscode/releases"><img src="https://img.shields.io/github/downloads/Sube3494/augment-for-vscode/total?logo=github" alt="Total Downloads" /></a>
